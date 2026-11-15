@@ -1,0 +1,26 @@
+China, mainland (cn) - notes on sources, checked 15 November 2026
+
+Authority: National Immigration Administration (国家移民管理局, NIA), under the Ministry of Public
+Security; local exit-entry administrations of the public security organs decide most cases.
+
+CHECKED
+- www.nia.gov.cn: robots.txt answers 404 (no rules). The "政策文件" (policy documents) list
+  https://www.nia.gov.cn/n741440/n741547/index.html and its pages index_753309_1..5.html were read in
+  full (about 60 entries). They are statutes and State Council regulations (出境入境管理法, 外国人入境
+  出境管理条例, 外国人在中国永久居留审批管理办法 ...), Party and State Council general documents,
+  announcements on visa-free and transit policies, a public handbook of exit-entry documents
+  (出入境证件简明手册, 2019, written to inform the public), a joint opinion of the courts, procuratorate
+  and police on prosecuting border-management offences (关于依法惩治妨害国（边）境管理违法犯罪的意见,
+  criminal law, not case handling of foreigners), and the rules on grading border-inspection officers'
+  professional skills (检查员专业能力等级评定办法（试行）, 2021, a personnel measure).
+- "政策解读" (policy explanations) and "政府信息公开" sections: press-style explanations for the public.
+- The working norms that officers apply (e.g. visa and residence-permit issuing norms, 外国人签证证件
+  签发工作规范, and the MPS internal 规范性文件 on exit-entry administration) are classified as internal
+  documents (内部文件) and not published; China's open-government regulations exempt internal
+  administrative documents.
+
+Nothing was downloaded; there is no download_cn.py.
+
+How much real guidance: none. The NIA publishes laws, regulations and public notices; it does not
+publish the normative documents, handbooks or operating norms by which its officers decide cases.
+No refusal, robots exclusion or bot check was met.
